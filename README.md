@@ -25,4 +25,4 @@ make all
 - the server is a small go application running on [echo](https://echo.labstack.com/)
 - the route finder alghoritm is a Prolog program from a separate repository: [skamsie/berlin-subway](https://github.com/skamsie/berlin-subway)
 
-![Screenshot of berlin-ubahn-map](public/png/screenshot.png?raw=true "berlin-ubahn-map")
+![Screenshot of berlin-ubahn-map](public/png/screenshot.png "berlin-ubahn-map")
